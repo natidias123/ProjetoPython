@@ -1,1 +1,1 @@
-
+print("Novo arquivo")
